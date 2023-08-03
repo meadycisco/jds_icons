@@ -129,6 +129,10 @@
     "name": "icon-secure-circle_16",
     "color": "red"
   },
+  "Billing": {
+    "name": "icon-document-share_16",
+    "color": "cobalt"
+  },
   "Form Filled": {
     "name": "icon-document-share_16",
     "color": "blue"
