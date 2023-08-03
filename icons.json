@@ -129,6 +129,10 @@
     "name": "icon-secure-circle_16",
     "color": "red"
   },
+  "Concierge": {
+    "name": "icon-document-share_16",
+    "color": "darkmint"
+  },
   "Billing": {
     "name": "icon-document-share_16",
     "color": "cobalt"
