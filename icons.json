@@ -129,8 +129,12 @@
     "name": "icon-secure-circle_16",
     "color": "red"
   },
+  "find_a_center": {
+    "name": "icon-bot_16",
+    "color": "red"
+  },
   "Concierge": {
-    "name": "icon-document-share_16",
+    "name": "icon-bot_16",
     "color": "darkmint"
   },
   "Billing": {
