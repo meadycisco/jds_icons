@@ -113,7 +113,7 @@
     "name": "icon-webex-teams_16",
     "color": "purple"
   },
-  "bot": {
+  "BOT": {
     "name": "icon-bot_16",
     "color": "blue"
   },
